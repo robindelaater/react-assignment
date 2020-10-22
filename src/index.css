@@ -1,10 +1,16 @@
 body {
+  width: 1280px;
+  height: 800px;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('rect3717.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  overflow: hidden;
 }
 
 code {
